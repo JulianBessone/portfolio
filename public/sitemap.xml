@@ -1,38 +1,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bessone.tech/</loc>
+    <loc>undefined/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/articles/</loc>
+    <loc>undefined/articles/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/contact/</loc>
+    <loc>undefined/contact/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/uses/</loc>
+    <loc>undefined/uses/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/projects/slice/</loc>
+    <loc>undefined/projects/slice/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/projects/volkihar-knight/</loc>
+    <loc>undefined/projects/smart-sparrow/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/projects/smart-sparrow/</loc>
+    <loc>undefined/projects/volkihar-knight/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/articles/hello-world</loc>
+    <loc>undefined/articles/hello-world</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://bessone.tech/articles/modern-styling-in-react</loc>
+    <loc>undefined/articles/modern-styling-in-react</loc>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>

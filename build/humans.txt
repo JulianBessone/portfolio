@@ -10,7 +10,7 @@ _______________________________________________________________________________
 
 DESIGNER | デザイナー
 
-Hamish Williams
+Julian Gaspar Bessone
 Hand crafted design & web development
 
 Design tools:
@@ -18,8 +18,6 @@ Figma
 Photoshop
 Blender
 
-twitter.com/hamishmw
-github.com/hamishmw
 
 _______________________________________________________________________________
 
