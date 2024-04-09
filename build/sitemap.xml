@@ -28,7 +28,15 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>undefined/articles/came-back-to-fortress</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>undefined/articles/hello-world</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>undefined/articles/miracle-at-evening</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>

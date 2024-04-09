@@ -102,6 +102,7 @@ const ArticlesPost = ({
   );
 };
 
+
 const SkeletonPost = ({ index }) => {
   return (
     <article

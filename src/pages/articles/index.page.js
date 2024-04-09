@@ -9,6 +9,7 @@ export { Articles as default } from './Articles';
 
 export function getStaticProps() {
   const allPosts = postFilePaths.map(filePath => {
+    console.log(filePath)
     const source = fs.readFileSync(path.join(POSTS_PATH, filePath));
     const { data, content } = matter(source);
 
